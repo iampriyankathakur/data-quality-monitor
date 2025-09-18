@@ -1,0 +1,6 @@
+id,age,income,city
+1,25,40000,New York
+2,30,50000,San Francisco
+3,,60000,Los Angeles
+4,25,40000,New York
+5,150,700000,Chicago
